@@ -1,0 +1,10 @@
+{
+  "name": "WALKIE OJALA",
+  "description": "Plataforma bajo demanda de paseo de perros con monitoreo GPS en tiempo real, planes estructurados y red de paseadores verificados.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

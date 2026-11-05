@@ -95,7 +95,7 @@ export function parseNameParts(fullName: string, email: string): { givenName: st
 
 export const GOOGLE_CLIENT_ID =
   (typeof import.meta !== 'undefined' && (import.meta as any).env?.VITE_GOOGLE_CLIENT_ID) ||
-  '239444747886-27atr4pt5u4pp2lbe3t8i84t5or1kdso.apps.googleusercontent.com';
+  '239444747886-epkhoc148pgegpnbpgm9746i4v5gu9l6.apps.googleusercontent.com';
 
 /**
  * Limpia el localStorage y sessionStorage de cualquier estado de sesión anterior
